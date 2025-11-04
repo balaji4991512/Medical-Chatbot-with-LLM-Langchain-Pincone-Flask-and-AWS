@@ -5,24 +5,6 @@ The system uses **LangChain** for orchestration, **HuggingFace** for embeddings,
 
 ---
 
-## 🧭 Table of Contents
-
-1. [Overview](#overview)
-2. [Project Workflow](#project-workflow)
-3. [Detailed Code Explanation](#detailed-code-explanation)
-
-   * [1. helper.py](#1-helperpy)
-   * [2. prompt.py](#2-promptpy)
-   * [3. store_index.py](#3-store_indexpy)
-   * [4. app.py](#4-apppy)
-   * [5. setup.py](#5-setuppy)
-   * [6. template.sh](#6-templatesh)
-4. [Frontend Files](#frontend-files)
-5. [How to Run](#how-to-run)
-6. [Summary of Flow](#summary-of-flow)
-
----
-
 ## 🩺 Overview
 
 This project enables a **medical assistant chatbot** that:
