@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Medical Chatbot using LangChain, Pinecone, HuggingFace, OpenAI & Flask
 
 A **Retrieval-Augmented Generation (RAG)** chatbot that answers medical questions using text extracted from PDF documents.
@@ -463,3 +464,6 @@ Access at [http://localhost:8080](http://localhost:8080)
 → 4. Store in Pinecone → 5. Retrieve Context
 → 6. Generate Answer (GPT-4o) → 7. Display in Flask UI
 ```
+=======
+
+>>>>>>> 75a21754a3787bf33b297ef0b4b187bf02e28154
